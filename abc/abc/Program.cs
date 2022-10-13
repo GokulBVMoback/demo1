@@ -11,6 +11,7 @@ namespace abc
         static void Main(string[] args)
         {
             Console.WriteLine("hello word");
+            Console.WriteLine("welcome");
         }
     }
 }
